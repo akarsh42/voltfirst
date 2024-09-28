@@ -39,7 +39,8 @@
     "canUpdateUI": true,
     "children": [
         "Button0g745f98418f346",
-        "Label0ba9b13a713c84d"
+        "Label0ba9b13a713c84d",
+        "Image0c0538e93b7774f"
     ],
     "containerweight": 100,
     "controllerInfo": {
